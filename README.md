@@ -1,7 +1,5 @@
-# Welcome to streamlit
+# YC_NLP
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+This is the final project for NLP course, built chatbot for youtube video.
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+To run this app please install the requirements first and then run with streamlit run ui.py at the terminal directory
